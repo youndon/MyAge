@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MyAge</string>
+    <string name="start">Start</string>
+    <string name="year">year</string>
+    <string name="month">month</string>
+    <string name="day">day</string>
+    <string name="hour">hour</string>
+    <string name="ss">.</string>
+    <string name="enter_your_birthday">Enter your birthday</string>
+    <string name="your_age_is">Your Age is</string>
+    <string name="minute">minute</string>
+    <string name="button">Button</string>
+    <string name="reset">Reset</string>
+    <string name="dot">.</string>
+    <string name="dot1">.</string>
+    <string name="dot2">.</string>
+    <string name="dot3">.</string>
+    <string name="dot4">.</string>
+</resources>
